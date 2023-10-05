@@ -1,0 +1,1 @@
+export const HEROES_API = "http://localhost:8000/heroes"

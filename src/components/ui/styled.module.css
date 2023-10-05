@@ -1,0 +1,13 @@
+.iconFilter {
+    color: rgb(169, 169, 169);
+    width: 3%;
+    margin: 1%;
+    font-size: 2.2rem;
+}
+
+.iconFilter:hover{
+    filter: brightness(10);
+}
+.navLink::shadow {
+    color: blue;
+}

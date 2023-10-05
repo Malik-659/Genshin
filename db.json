@@ -1,0 +1,45 @@
+{
+    "heroes": [
+      {
+        "id": 1,
+        "name": "Ноэлль",
+        "image": {
+          "picture": "https://s1.zerochan.net/Noelle.600.3141511.jpg",
+          "avatar": "https://64.media.tumblr.com/40ca0bb4b4aab8000c295422f6c6e16f/7fc0e58a965b3b89-5d/s400x600/810dcd898898db4eac840ccce1810cf02acb67ae.png"
+        },
+        "details": {
+          "rarity": 4,
+          "weapon": "Двуручное",
+          "element": "Гео",
+          "model": "Средняя женская",
+          "happyDay": "21 марта",
+          "specialtyDish": "Невесомый блинчик",
+          "region": "Мондштадт",
+          "group": "Ордо Фавониус",
+          "nameCard": "Щит (Именная карта)",
+          "HowToGet": ["Молитвы", "Магазин Паймон"],
+          "release date": "28 сентября 2020 (3 года назад)",
+          "titles": ["Душистая роза", "Горничная Ордена"]
+        },
+        "character": {
+          "elevationPhase": 0,
+          "level": 1,
+          "health": 1012,
+          "attack": 16,
+          "defense": 66,
+          "specialCharacter": 0
+        },
+        "constellation": [
+          "Душевный Щит",
+          {
+            "oneConstellation": {},
+            "twoConstellation": {},
+            "threeConstellation": {},
+            "fourConstellation": {},
+            "fiveConstellation": {},
+            "sixConstellation": {}
+          }
+        ]
+      }
+    ]
+  }
